@@ -7,10 +7,10 @@ permalink: projects/pikachuonthemove
 # All dates must be YYYY-MM-DD format!
 date: 2019-04-29
 labels:
-  - ICS
   - Java
   - Team
-summary: Final group project for ICS 111 in Spring 2019.
+  - Game
+summary: Final group project for ICS 111.
 ---
 
 <div class="ui small rounded images">
