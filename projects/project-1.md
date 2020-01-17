@@ -19,25 +19,11 @@ summary: Final project for ICS 111 that my group developed using concepts we lea
   <img class="ui image" src="../images/pikachu3.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+Pikachu On The Move is a game that I helped developed as a team in the course 'Intro to Computer Science I'. The purpose of the project was to experience working with other people and have the ability to make a program using Java by applying the concepts we learned over the semester. As a group, we decided to make a game with the theme based from the game franchise, "Pokemon". Using the controls, W - up, A - left, S - down, D - right, to move the main character 'Pikachu', the goal of the game is to avoid being caught by the pokemon balls, while getting the highest survival time as possible.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+For this project, I created the controlling character 'Pikachu'; I was responsible of making a class allowing the player to move as Pikachu. In this project, some of the concepts that were used was: Finite State Machines & Private, Public member variables and Member functions. The class I made allowed WASD as the controls. In whatever direction Pikachu moved in, for example going left, the picture of the moving Pikachu would face left. Same goes for right, up, and down. 
 
-Here is some code that illustrates how we read values from the line sensors:
-
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+This project demonstrates my ability and efficiency to create a Java program and used what I have learned over a semester. By working as a team, it allowed me to experience what it's like to work in a group as a computer science student. ICS 111 was the start of my career as an ICS student. It gave me a perspective on myself on what I'm capable of doing.
 
 
 
