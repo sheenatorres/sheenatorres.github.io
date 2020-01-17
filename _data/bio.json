@@ -49,12 +49,8 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
       ]
     },
     {
@@ -62,10 +58,8 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows"
+        "Git/GitHub"
       ]
     }
   ],
@@ -83,11 +77,11 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Marriott Hotels",
+      "position": "General Cleaner - Casual",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
+      "startDate": "Summer 2019",
+      "endDate": "",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
         "Maintain, update, and oversee official college newspaper website",
