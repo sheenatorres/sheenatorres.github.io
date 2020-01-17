@@ -9,7 +9,7 @@ date: 2019-04-29
 labels:
   - ICS
   - Java
-  - 
+  - Team
 summary: Final project for ICS 111 that my team developed using concepts we learned over the semester.
 ---
 
