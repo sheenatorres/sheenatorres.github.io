@@ -25,5 +25,5 @@ For this project, I created the controlling character 'Pikachu'; I was responsib
 
 This project demonstrates my ability and efficiency to create a Java program, and used what I have learned over a semester. By working as a team, it allowed me to experience what it's like to work in a group as a computer science student. ICS 111 was the start of my career as an ICS student. It gave me a perspective on myself on what I'm capable of doing.
 
-
+Here's a [link](https://www.youtube.com/watch?v=DdvHioiFQM4) showcasing the game.
 
