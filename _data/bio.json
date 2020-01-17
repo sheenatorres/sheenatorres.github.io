@@ -79,7 +79,7 @@
     {
       "company": "Marriott Hotels",
       "position": "General Cleaner - Casual",
-      "website": "",
+      "website": "http://marriott.com",
       "startDate": "2019",
       "endDate": "2019",
       "summary": "Assisted with the Room Attendants at Kauai Marriott.",
@@ -93,7 +93,7 @@
   "volunteer": [
     {
       "organization": "Katipunan Club",
-      "website": "",
+      "website": "http://manoa.hawaii.edu/rio/katipunan/",
       "position": "Member",
       "startDate": "2018",
       "endDate": "Present",
