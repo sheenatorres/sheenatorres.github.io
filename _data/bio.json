@@ -2,11 +2,11 @@
   "basics": {
     "name": "Sheena Torres",
     "label": "Student",
-    "picture": "https://sheenatorres.github.io/images/sheena.png",
+    "picture": "https://sheenatorres.github.io/images/sheena.jpg",
     "email": "torressm@hawaii.edu",
     "phone": "",
     "website": "https://sheenatorres.github.io",
-    "summary": "I am currently a student studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Spring 2022.",
+    "summary": "I am currently a full-time student studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Spring 2022.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -29,17 +29,17 @@
   },
   "interests": [
     {
-      "name": "",
+      "name": "software development",
       "keywords": [
       ]
     },
     {
-      "name": "",
+      "name": "data science",
       "keywords": [
       ]
     },
     {
-      "name": "",
+      "name": "java",
       "keywords": [
       ]
     }
