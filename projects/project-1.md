@@ -23,7 +23,7 @@ Pikachu On The Move is a game that I helped developed as a team in the course 'I
 
 For this project, I created the controlling character 'Pikachu'; I was responsible of making a class allowing the player to move as Pikachu. In this project, some of the concepts that were used was: Finite State Machines & Private, Public member variables and Member functions. The class I made allowed WASD as the controls. In whatever direction Pikachu moved in, for example going left, the picture of the moving Pikachu would face left. Same goes for right, up, and down. 
 
-This project demonstrates my ability and efficiency to create a Java program and used what I have learned over a semester. By working as a team, it allowed me to experience what it's like to work in a group as a computer science student. ICS 111 was the start of my career as an ICS student. It gave me a perspective on myself on what I'm capable of doing.
+This project demonstrates my ability and efficiency to create a Java program, and used what I have learned over a semester. By working as a team, it allowed me to experience what it's like to work in a group as a computer science student. ICS 111 was the start of my career as an ICS student. It gave me a perspective on myself on what I'm capable of doing.
 
 
 
