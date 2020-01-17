@@ -10,7 +10,7 @@ labels:
   - ICS
   - Java
   - 
-summary: Group developed game for Project 3 in ICS 111.
+summary: Final project for ICS 111 that my team developed using concepts we learned over the semester.
 ---
 
 <div class="ui small rounded images">
