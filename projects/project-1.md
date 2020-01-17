@@ -10,7 +10,7 @@ labels:
   - ICS
   - Java
   - Team
-summary: Final project for ICS 111 that my group developed using concepts we learned over the semester.
+summary: Final project for ICS 111 that my group developed using concepts we learned over the semester in Spring 2019.
 ---
 
 <div class="ui small rounded images">
