@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: images/virtualgraffiti1.png
 title: VirtualGraffiti
 permalink: projects/virtualgraffiti
 # All dates must be YYYY-MM-DD format!
@@ -12,7 +12,7 @@ labels:
   - ICS
 summary: A virtual graffiti program I developed for ICS 111.
 ---
-<img class="ui medium left floated rounded image" src="../images/filproj1.png">
+<img class="ui medium left floated rounded image" src="../images/virtualgraffiti1.png">
 
 For the first project in ICS 111, I had to as decribed, "develop a graffiti app where you use your mouse to move a spray can and when you press the mouse button, the can sprays paint onto the wall". Using Java, we can change the paint color with either the 1 or 2 keys. 
 
