@@ -9,6 +9,7 @@ date: 2019-02-05
 labels:
   - Java
   - EZ
+  - ICS
 summary: A virtual graffiti program I developed for ICS 111.
 ---
 <img class="ui medium left floated rounded image" src="../images/filproj1.png">
