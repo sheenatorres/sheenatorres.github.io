@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Spray Paint Graffiti
-permalink: projects/spraypaint
+image: images/virtualgraffiti.png
+title: VirtualGraffiti
+permalink: projects/virtualgraffiti
 # All dates must be YYYY-MM-DD format!
 date: 2019-02-05
 labels:
