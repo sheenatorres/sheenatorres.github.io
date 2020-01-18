@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/virtualgraffiti.png
+image: images/virtualgraffiti1.png
 title: VirtualGraffiti
 permalink: projects/virtualgraffiti
 # All dates must be YYYY-MM-DD format!
