@@ -2,13 +2,13 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+title: Spray Paint Graffiti
+permalink: projects/spraypaint
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2019-02-05
 labels:
-  - Lisp
-  - GitHub
+  - Java
+  - EZ
 summary: A text adventure game I developed for ICS 313.
 ---
 
