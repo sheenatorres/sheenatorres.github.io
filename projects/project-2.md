@@ -1,25 +1,24 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/filproj1.png
+title: Philippine Pop Culture
+permalink: projects/philipineculture
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2019-11-21
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Video
+  - Team
+  - PowerPoint
+summary: Mythical Creature project in Philippine Pop Culture & Filipino Language.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium left floated rounded image" src="../images/filproj1.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+This project surrounds the culture of the Philippines. During the Fall 2019 semester, I took Philippine Pop Culture, and continuing my proficiency in Filipino language at the intermediate level. In my Philippine Pop Culture class, we learned about the mythical creature in the Philippines called the 'Aswang'. The Aswang is a cryptid in Filipino folklore that is generically a term applied to all types of witches, vampires, werewolves, and ghouls. In class, we watched a documentary that explains the meaning of 'Aswang'. Rather than just a mythical creature in Filipino folklore, it symbolizes those in authority during the time the Philippines was colonized by the Spaniards. As part of the Ilokano Language, Culture, and Literature Program, we were required to create a video project summarizing what we learned over the course. Also for my Filipino language class, I decided to present about the mythical creature as my final oral project.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+<img class="ui small right floated rounded image" src="../images/filproj2.png">
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+For our video project, we came to a concensus to make a horror type video about students trying to make a video project about the Aswang, but unfortunately meeting their end when the Aswang begins to attack. In my Filipino language class, I chose the topic 'Aswang' because I had previous knowledge about it and wanted to share what I learned in my Philippine Pop Culture class. In class, I had to present my presentation majority in Filipino, improving my Filipino-speaking skills. 
+
+In both projects, I experienced making a video as a group in my college career and was able to improve my proficiency in Filipino language. I got to learn and understand more about the Philippine culture, and was able to share my knowledge amongst other students. 
