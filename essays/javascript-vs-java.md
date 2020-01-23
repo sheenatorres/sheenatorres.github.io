@@ -18,7 +18,7 @@ After learning the basics of JavaScript and without much experience, I'm not det
 
 **Athletic Software Engineering**
 
-In my current software engineering class, the class implements an educational technique called athletic software engineering. This technique is implemented in the class in order to help the students acquire mastery on the concepts covered in the course. My thoughts on the athletic software engineering technique is that it is an interesting and suffiecient way to improve programming skills. We have the opportunity to have practice WODs (Workouts of the Day) inside and outside of class. It is to prepare us students for the actual WODs to test what we understand and know. 
+In my current software engineering class, the class implements an educational technique called athletic software engineering. This technique is implemented in the class in order to help the students acquire mastery on the concepts covered in the course. My thoughts on the athletic software engineering technique is that it is an interesting and sufficient way to improve programming skills. We have the opportunity to have practice WODs (Workouts of the Day) inside and outside of class. In a way, I do find the practice WODs really helpful. I have the chance to practice my skills on JavaScript, and determine the level I am at. It is to prepare us students for the actual WODs to test what we understand and know. At the end of it, I think that the athletic software engineering educational technique will help me improve in class and overall. It trains and teaches me what and what not to do.
 
 
 
