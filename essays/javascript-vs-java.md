@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: JavaScript vs Java
+title: JavaScript VS Java
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-20
 labels:
