@@ -10,8 +10,6 @@ labels:
   - JavaScript
 ---
 
-**JavaScript**
-
 The first programming language I learned as an ICS (Information and Computer Sciences) student was Java. Then, I had to learn JavaScript for Software Engineering. When I started to learn JavaScript, I noticed how similar it was to Java. Since I was familiar with Java, it was easier to learn and understand JavaScript. I was able to apply my current knowledge to understand the basics of JavaScript. Both languages have the same concepts, but just different formatting. Also, compared to Java, JavaScript has shortcuts, and has different kind of ways to type the code. 
 
 **Is JavaScript a good or bad programming language?**
