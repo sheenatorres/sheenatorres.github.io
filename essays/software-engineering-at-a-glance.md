@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Software Engineering at a glance
+title: Software Engineering At A Glance
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-20
 labels:
