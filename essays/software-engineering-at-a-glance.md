@@ -11,7 +11,7 @@ labels:
 
   Before being a part of a software engineering class, I wasn't sure what to expect. It is an interest of mine to work in software development, and web/app design. I hope to become a software engineer in being able to create computer software and specializing in computers. For my future self, I do expect myself to be working in either field. To achieve my goal, the material I will learn in software engineering will prepare me to gain the experiences, and expand my perspective on what I'm capable of doing as an Information and Computer Sciences student. 
 
-**Skills and Experiences I Hope To Develop**
+## Skills and Experiences I Hope To Develop
   
   As I progress throughout my software engineering class, I hope to learn as many skills as I can. One of my skills I want to develop in this class is to be proficient and improve my problem-solving skills in programming. Taking my time to learn and understand the concepts covered in class will be essential for me in order to succeed in the class and even in my future. Another skill I hope to develop in software engineering is to expand my professional portfolio. I can gain this skill by increasing my experiences in software egineering. I also have the opportunity to make and create projects of my own. Overall, as I advance my skills in software engineering, the projects I create can demonstrate my knowledge and creativity. 
  
