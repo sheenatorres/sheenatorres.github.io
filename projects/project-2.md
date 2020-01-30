@@ -23,6 +23,6 @@ For our video project, we came to a concensus to make a horror type video about 
 
 In both projects, I experienced making a video as a group in my college career and was able to improve my proficiency in Filipino language. I got to learn and understand more about the Philippine culture, and was able to share my knowledge amongst other students. 
 
-Here is my [PowerPoint](sheenatorres.github.io/Aswang.pptx) of my presentation. In the speaker notes are my translations in Filipino.
+Here is my [PowerPoint](https://github.com/sheenatorres/sheenatorres.github.io/blob/master/Aswang.pptx) of my presentation. In the speaker notes are my translations in Filipino.
 
 
