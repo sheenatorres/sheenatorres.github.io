@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-  Before being a part of a software engineering class, I wasn't sure what to expect. It is an interest of mine to work in software development, and web/app design. For my future self, I do expect myself to be working in either field. To achieve my goal, the material I will learn in software engineering will prepare me to gain the experiences, and expand my perspective on what I'm capable of doing as an Information and Computer Sciences student. 
+  Before being a part of a software engineering class, I wasn't sure what to expect. It is an interest of mine to work in software development, and web/app design. I hope to become a software engineer in being able to create computer software and specializing in computers. For my future self, I do expect myself to be working in either field. To achieve my goal, the material I will learn in software engineering will prepare me to gain the experiences, and expand my perspective on what I'm capable of doing as an Information and Computer Sciences student. 
 
 **Skills and Experiences I Hope To Develop**
   
