@@ -19,7 +19,7 @@ This project surrounds the culture of the Philippines. During the Fall 2019 seme
 
 <img class="ui small right floated rounded image" src="../images/filproj2.png">
 
-For our video project, we came to a concensus to make a horror type video about students trying to make a video project about the Aswang, but unfortunately meeting their end when the Aswang begins to attack. In my Filipino language class, I chose the topic 'Aswang' because I had previous knowledge about it and wanted to share what I learned from my Philippine Pop Culture class. In class, I had to present my presentation majority in Filipino, improving my Filipino-speaking skills. 
+For our video project, we came to a consensus to make a horror type video about students trying to make a video project about the Aswang, but unfortunately meeting their end when the Aswang begins to attack. In my Filipino language class, I chose the topic 'Aswang' because I had previous knowledge about it and wanted to share what I learned from my Philippine Pop Culture class. In class, I had to present my presentation majority in Filipino, improving my Filipino-speaking skills. 
 
 In both projects, I experienced making a video as a group in my college career and was able to improve my proficiency in Filipino language. I got to learn and understand more about the Philippine culture, and was able to share my knowledge amongst other students. 
 
