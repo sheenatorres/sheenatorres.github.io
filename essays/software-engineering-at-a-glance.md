@@ -17,4 +17,4 @@ labels:
  
   The experiences I hope to develop in the future is working and meeting other students with similar interests. I will be able to gain the experience of working on projects in a team-setting and have the ability to have consensus with one another. With this experience, it will also help me gain the skill of networking with others, and working with as much people as I can. 
   
-  Taking a software engineering class will be benefical to me as a student and towards my ambition in becoming a software developer. The skills and experiences I develop from the class will expand my perspective on software development, and what I'm capable of.
+  Taking a software engineering class will be beneficial to me as a student and towards my ambition in becoming a software developer. The skills and experiences I develop from the class will expand my perspective on software development, and what I'm capable of.
