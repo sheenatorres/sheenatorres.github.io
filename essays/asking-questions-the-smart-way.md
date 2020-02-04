@@ -11,7 +11,7 @@ labels:
   - Communication
 ---
 
-Being able to communicate effectively is the most important of all life skills. Having strong communication skills aids in different aspects of life, such as from our professional to personal life, and all in between. It allows others to understand us and vice versa accurately and receive answers clearly. In relative of being a software engineer, communication is one of the most important skills to develop, and by asking questions the “smart way” will help software engineers continually succeed in what they do. 
+Being able to communicate effectively is the most important of all life skills. Having strong communication skills aids in different aspects of life, such as from our professional to personal life, and all in between. It allows others to understand us and vice versa accurately and receive answers clearly. In relative of being a software engineer, communication is one of the most important skills to develop and by asking questions the 'smart way', it will help software engineers continually succeed in what they do. 
 
 <img class="ui small left floated rounded image" src="../images/stackoverflow.jpg">
 
