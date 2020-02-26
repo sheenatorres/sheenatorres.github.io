@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Web Design Using Semantic UI
+title: Web Designing Using Semantic UI
 # All dates must be YYYY-MM-DD format!
 date: 2020-02-25
 labels:
