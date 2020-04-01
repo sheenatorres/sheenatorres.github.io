@@ -8,7 +8,9 @@ labels:
   - Meteor
 ---
 
-## Overview (including “The problem” and “The solution”)
+## Overview 
+#### The problem
+#### The solution
 
 ##  Mockup page ideas
 
