@@ -15,6 +15,5 @@ One of the general ethical principles, according to the ACM Code of Ethics, is t
 
 Then in 2010, there was another privacy scandal that Google encountered where they had been collecting a lot of personal information through their vehicles. According to the ACM Code of Ethics, 'Only the minimum amount of personal information necessary should be collected in a system', and clearly be, '... communicated to data subjects'. The fact that the users had no knowledge that their information was being taken before Google got exposed, makes this unethical. 
 
-After reading the cast study regarding privacy, especially about Google, my personal opinion as to the ethical stance to be taken is be honest and let users know what information will be used and collected from them.
-
+After reading the case study regarding privacy, especially about Google, my personal opinion as to the ethical stance to be taken is be honest and let users know what information will be used and collected from them. It then allows the users to decide whether or not to continue using the software. It really depends on what they define as privacy, and whether or not they consent to having their information collected and be used. Since privacy is a legally protected right, the developer should understand and oversee the implications that their software may occur in, and how their clients will be affected.
 
