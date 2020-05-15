@@ -13,8 +13,6 @@ labels:
   - IntelliJ IDEA
 summary: A web application developed as a team for the final project in ICS 314.
 ---
-In my Software Engineering I class at UH Manoa, ICS 314, we had to complete a final project where we had to apply concepts and skills we had learned and gained throughout the course of the semester. We were distributed into teams, and were expected to complete a web application development.
-
 <img class="ui medium left floated rounded image" src="../images/projectpic.png">
 
 This web application we have developed, called UH Water Connoisseur, primarily purpose was to organize and present different water fountains that are located in the UH Manoa campus. The main purpose of our app was to allow users to review water fountains on the campus. After logging into the app, users are able to submit water fountains and reviews that are not currently on the list of fountains. They are then able to view water fountains and be able to locate them on campus based on the building the water fountain is in and what floor it is on. If students at UH Manoa have no water bottle or accessibility to buy water, they can use our web app to locate any water fountain and determine which is good based on ratings, or whichever is closer to them.
