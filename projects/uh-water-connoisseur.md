@@ -40,6 +40,7 @@ In regards to my contribution to the project, I was in charge of creating the si
 <br />
 <br />
 <br />
+<br />
 
 In all, this project was an opportunity to showcase my skills of using user interface frameworks, such as Semantic UI React. Also, being able to work in teams. By working in teams, we were able to adapt to issue drive management. I was able to apply concepts I have learned in this software engineering class and demonstrate what I am capable of doing. By completing this final project, it has expanded my perspective in software development and gained the experience to create a web application.
 
