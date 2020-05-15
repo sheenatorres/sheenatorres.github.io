@@ -25,6 +25,7 @@ This web application we have developed, called UH Water Connoisseur, primarily p
 In our app, there is admin which allows access to a list of all current water fountains. Whenever a user submits a request to add a fountain and a review, the admin will have the ability to view and accept or edit the request. 
 
 <br />
+<br />
 
 In regards to my contribution to the project, I was in charge of creating the sign up page, updating the admin page, and making a map. For the sign up page, users have the ability to sign in which allowed them to have access to add fountains and the list of all building with fountains. I have also updated the admin page, in which I have mention earlier, that allows admin to view all current fountains. Lastly, the other contribution I have worked on in this project was the map page. The map page consists a map of the UH Manoa campus that is labeled with the buildings that have water fountains. It also includes information on how much water fountains there are that are currently added to the list of water fountains.
 
@@ -32,6 +33,8 @@ In regards to my contribution to the project, I was in charge of creating the si
 
 <img class="ui medium floated rounded image" src="../images/projectpic2.png">
 
+<br />
+<br />
 <br />
 
 In all, this project was an opportunity to showcase my skills of using user interface frameworks, such as Semantic UI React. Also, being able to work in teams. By working in teams, we were able to adapt to issue drive management. I was able to apply concepts I have learned in this software engineering class and demonstrate what I am capable of doing. By completing this final project, it has expanded my perspective in software development and gained the experience to create a web application.
